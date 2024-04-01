@@ -1,1 +1,1 @@
-# myDataGo
+A proof-of-concept myDATA integration based on VueJS and Go.
